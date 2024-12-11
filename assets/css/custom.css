@@ -1,0 +1,21 @@
+/*
+Custom Css
+*/
+
+#imagen_cabecera{
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    text-align: center;
+    background-color: #10ac84;
+    flex-grow: 1;
+    color: white;
+}
